@@ -7,7 +7,7 @@ Sprintarna är två veckor långa.
 Definition av done för våra user stories är när den uppfyller acceptanskriterierna och är testad.
 Ett poäng motsvarar en arbetsdag för en person. 
 
-Produktmål (en första version): Söka efter en specifik bok och låna den genom ett modern UI.
+Produktmål (en första version): Skapa (och leverera) ett system där användare kan låna böcker. I detta system skall användaren kunna söka på böcker samt returnera böckerna i ett modernt UI.
 
 Det som ska göras för att nå målet är :
 User stories - definition of done
@@ -20,7 +20,7 @@ Sprint backlog storlek ska vara så stora att de kan implementeras av en utveckl
 
 
 Sprint 1: 
-Sprintmål: 
+Sprintmål: Målet med första sprinten (2 veckor) är att ha ett fullt fungerande system där användare kan söka efter böcker på frihand eller utefter kategorier från en databas där alla böckerna ligger lagrade. Användarna skall även kunna se lagerstatus på böcker i olika filialer och boka böckerna. Genom en databas för användare skall användarna kunna skapa ett konto och kunna låna böcker på egen hand (scanna) eller genom personalhjälp. 
 
 User stories: 
 https://trello.com/b/2knaabpo/scrum
