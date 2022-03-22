@@ -30,19 +30,34 @@ Definition of done - När user storyns accepterings kriterier är klara och test
                 - Produktägare ( kontrollerar )
 
 3	Som bokläsare vill jag kunna låna böcker för att läsa.
-                3 poäng ( 18 timmar ) 
+                3 poäng ( 24 timmar ) 
 
                 Accepterings kriterier :
                 - Kunna välja bok
                 - Koppla bok från bokdatabas till användare i användardatabasen
                 - Uppdatera databas med utlånad bok
+                - Reflektera lagerstatus i interface
 
                 Vilka : 
                 - Backend
                 - Frontend
                 - UX-designer
 
-4	Jag som personal vill ha en databas med alla böcker
+4       Som låntagare vill jag på ett smidigt sätt kunna lämna tillbaka lånade böcker.
+                2 poäng ( 16 timmar )
+
+                Accepterings kriterier :
+                - Kunna lämna tillbaka lånad bok
+                - Kopplar och uppdaterar automatiskt i systemet att boken är återlämnad
+                - Uppdatera databas med att boken återigen finns på lager för uthyrning
+                - Reflektera lagerstatus i interface
+
+                Vilka : 
+                - Backend
+                - Frontend
+                - UX-designer               
+
+5	Jag som personal vill ha en databas med alla böcker
                 3 poäng ( 24 timmar )
 
                 Accepterings kriterier : 
@@ -53,7 +68,7 @@ Definition of done - När user storyns accepterings kriterier är klara och test
                 Vilka : 
                 - Backend
 
-5	Jag som produktägare vill ha en databas för alla användare.
+6	Jag som produktägare vill ha en databas för alla användare.
                 5 poäng ( 40 timmar )
 
                 Accepterings kriterier : 
@@ -67,7 +82,7 @@ Definition of done - När user storyns accepterings kriterier är klara och test
                 - Frontend
                 - UX-designer
 
-6	Jag som låntagare vill kunna söka efter böcker.
+7	Jag som låntagare vill kunna söka efter böcker.
                 2 poäng ( 16 timmar ) 
 
                 Accepterings kriterier :
@@ -81,7 +96,7 @@ Definition of done - När user storyns accepterings kriterier är klara och test
                 - Frontend
                 - UX-designer
 
-7	Jag som låntagare vill kunna ställa mig på kö om en bok är utlånad.
+8	Jag som låntagare vill kunna ställa mig på kö om en bok är utlånad.
                 1 poäng ( 8 timmar ) 
 
                 Accepterings kriterier : 
@@ -95,7 +110,7 @@ Definition of done - När user storyns accepterings kriterier är klara och test
                 - UX-designer
 
 
-8	Jag som låntagare vill kunna se om en bok finns på lager eller inte.
+9	Jag som låntagare vill kunna se om en bok finns på lager eller inte.
                 1 poäng ( 8 timmar ) 
 
                 Accepterings kriterier : 
@@ -106,7 +121,7 @@ Definition of done - När user storyns accepterings kriterier är klara och test
                 - Frontend
                 - UX-designer
 
-9	Jag som personal vill kunna scanna böckerna för att kunna koppla till databasen
+10	Jag som personal vill kunna scanna böckerna för att kunna koppla till databasen
                 3 poäng ( 18 timmar )
 
                 Accepterings kriterier : 
@@ -118,7 +133,7 @@ Definition of done - När user storyns accepterings kriterier är klara och test
                 - Frontend
                 - UX-designer
 
-10	Jag som besökare vill kunna låna böcker utan personalkontakt
+11	Jag som besökare vill kunna låna böcker utan personalkontakt
                 2 poäng ( 16 timmar )
 
                 Accepterings kriterier :
@@ -130,7 +145,7 @@ Definition of done - När user storyns accepterings kriterier är klara och test
                 - Frontend
                 - UX-designer
 
-11	Jag som låntagare vill kunna logga in och se mina aktiva lån
+12	Jag som låntagare vill kunna logga in och se mina aktiva lån
                 2 poäng ( 16 timmar ) 
 
                 Accepterings kriterier : 
@@ -143,7 +158,7 @@ Definition of done - När user storyns accepterings kriterier är klara och test
                 - Frontend
                 - UX-designer
 
-12	Jag som låntagare vill kunna få meddelande när böckerna ska tillbaka.  
+13	Jag som låntagare vill kunna få meddelande när böckerna ska tillbaka.  
                 2 poäng ( 16 timmar )
 
                 Accepterings kriterier :
@@ -155,7 +170,7 @@ Definition of done - När user storyns accepterings kriterier är klara och test
                 - Frontend
                 - UX-designer
 
-13	Jag som låntagare vill kunna söka efter kategorier eller författare.
+14	Jag som låntagare vill kunna söka efter kategorier eller författare.
                 2 poäng ( 16 timmar )
 
                 Accepterings kriterier :
@@ -165,7 +180,7 @@ Definition of done - När user storyns accepterings kriterier är klara och test
                 - Frontend
                 - UX-designer
 
-14	Som produktägare vill jag kunna hantera avgifter genom kommunens ekonomiavdelning.
+15	Som produktägare vill jag kunna hantera avgifter genom kommunens ekonomiavdelning.
                 5 poäng ( 40 timmar )
 
                 Accepterings kriterier :
@@ -176,7 +191,7 @@ Definition of done - När user storyns accepterings kriterier är klara och test
                 - Frontend
                 - UX-designer
 
-15	Som produktägare vill jag att systemet ska ha administrativa funktioner så arbetarna kan hantera användare, böcker etc
+16	Som produktägare vill jag att systemet ska ha administrativa funktioner så arbetarna kan hantera användare, böcker etc
                 3 poäng ( 18 timmar )
 
                 Accepterings kriterier :
@@ -189,7 +204,7 @@ Definition of done - När user storyns accepterings kriterier är klara och test
                 - Backend
                 - UX-designer
 
-16	Som produktägare vill jag att man ska kunna hantera flera filialer i samma system
+17	Som produktägare vill jag att man ska kunna hantera flera filialer i samma system
                 3 poäng ( 24 timmar ) 
 
                 Accepterings kriterier : 
@@ -202,7 +217,7 @@ Definition of done - När user storyns accepterings kriterier är klara och test
                 - Frontend
                 - UX-designer
 
-17	Jag som låntagare vill kunna se lagerstatus på andra filialer.
+18	Jag som låntagare vill kunna se lagerstatus på andra filialer.
                 1 poäng ( 8 timmar ) 
 
                 Accepterings kriterier :
@@ -213,7 +228,7 @@ Definition of done - När user storyns accepterings kriterier är klara och test
                 - Frontend
                 - UX-designer
 
-18	Jag som låntagare vill kunna skicka böcker mellan olika filialer.
+19	Jag som låntagare vill kunna skicka böcker mellan olika filialer.
                 3 poäng ( 24 timmar ) 
 
                 Accepterings kriterier : 
@@ -225,12 +240,12 @@ Definition of done - När user storyns accepterings kriterier är klara och test
                 - Frontend
                 - UX-designer
 
-19	Jag som yngre låntagare vill inte ha några fysiska kort för att kunna låna böcker.
+20	Jag som yngre låntagare vill inte ha några fysiska kort för att kunna låna böcker.
                 0 poäng
 
                 Är automatiskt utan kort från grunden
 
-20	Jag som äldre låntagare vill ha ett fysiskt kort för att kunna låna böckerna.
+21	Jag som äldre låntagare vill ha ett fysiskt kort för att kunna låna böckerna.
                 5 poäng ( 30 timmar )
 
                 Accepterings kriterier : 
@@ -244,7 +259,7 @@ Definition of done - När user storyns accepterings kriterier är klara och test
                 - Frontend
                 - UX-designer
 
-21	Jag som låntagare vill ha möjlighet att kunna låna om boken om jag inte hunnit läsa klart.
+22	Jag som låntagare vill ha möjlighet att kunna låna om boken om jag inte hunnit läsa klart.
                 2 poäng ( 12 timmar ) 
 
                 Acceptering kriterier : 
@@ -255,7 +270,7 @@ Definition of done - När user storyns accepterings kriterier är klara och test
                 - Frontend
                 - UX-designer
 
-22	Jag som låntagare vill kunna anmäla en försvunnen bok.
+23	Jag som låntagare vill kunna anmäla en försvunnen bok.
                 2 poäng ( 12 timmar )
 
                 Accepterings kriterier :
@@ -266,7 +281,7 @@ Definition of done - När user storyns accepterings kriterier är klara och test
                 - Frontend
                 - UX-designer
 
-23	Jag som chef vill få rapporter över antal lånade böcker för att se hur mycket vi lånar ut i olika filialer
+24	Jag som chef vill få rapporter över antal lånade böcker för att se hur mycket vi lånar ut i olika filialer
                 3 poäng ( 24 timmar )
 
                 Accepterings kriterier : 
@@ -278,7 +293,7 @@ Definition of done - När user storyns accepterings kriterier är klara och test
                 - UX-designer
                 - Backend
 
-24	Jag som lånare vill kunna se statistik över mina lånade böcker.
+25	Jag som lånare vill kunna se statistik över mina lånade böcker.
                 1 poäng ( 8 timmar ) 
 
                 Accepterings kriterier : 
@@ -289,7 +304,7 @@ Definition of done - När user storyns accepterings kriterier är klara och test
                 - Frontend
                 - UX-designer
 
-25	Jag som låntagare vill kunna få tips utefter historik.
+26	Jag som låntagare vill kunna få tips utefter historik.
                 3 poäng ( 24 timmar ) 
 
                 Accepterings kriterier :

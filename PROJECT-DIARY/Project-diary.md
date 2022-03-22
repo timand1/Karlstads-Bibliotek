@@ -24,8 +24,8 @@ Sprint backlog storlek ska vara så stora att de kan implementeras av en utveckl
 Sprint 1: 
 Sprintmål: Målet med första sprinten (2 veckor) är att ha ett fullt fungerande system där användare kan söka efter böcker på frihand eller utefter kategorier från en databas där alla böckerna ligger lagrade. Användarna skall även kunna se lagerstatus på böcker i olika filialer och boka böckerna. Genom en databas för användare skall användarna kunna skapa ett konto och kunna låna böcker på egen hand (scanna) eller genom personalhjälp. 
 
-User stories: 
-https://trello.com/b/2knaabpo/scrum
+User stories: https://trello.com/b/2knaabpo/scrum
+Tidsplanering excel : https://funet-my.sharepoint.com/:x:/g/personal/f21_andeti_folkuniversitetet_nu/EfHpFl5Q0QpKlMmNQgPxrUgBgBjLfIs-UyVn3u4SacP5vw?e=PBa51d
 
 
 Diskussioner idag: 
@@ -53,7 +53,9 @@ Vi uppdaterar acceptanskriterierna på alla user stories för att konkretisera o
 
 Gjort idag :
 Itererat user stories och acceptanskriterier.
+Delade bland annat upp "Som bokläsare vill jag kunna låna böcker för att läsa." till att hämta (låna) och lämna tillbaka lånad bok.
 Uppdaterat acceptanskriterier och lagt till epic stories vi hade under gårdagen (måndag).
+Uppdaterat tidsplanering utefter dagens förändringar.
 
 Vad vi behöver göra härnäst: 
 Iterera - gå igenom våra stories och acceptanskriterier. Se om de är ok, behöver ändras / ta bort eller om vi kommer på någon ny.
