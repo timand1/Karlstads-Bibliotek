@@ -9,21 +9,23 @@ Definition of done - När user storyns accepterings kriterier är klara och test
 
         Accepterings kriterier :
         - Dokumentation för systemet
-        - Vilka funktioner som skall vara med
+        - Vilka funktioner som skall vara med och hur de ska funka
         - Design
 
         Vilka :
         - Produktägare
         - UX-designer, backendare och frontendare
 
-2	Jag som produktägare vill att interfacet ska vara modernt.
+2	Jag som produktägare vill att interfacet ska vara modernt. (Figma)
         5 poäng ( 40 timmar )
 
         Accepterings kriterier :
         - När produktägaren tycker det är ok
+        - När frontendare säger att det är genomförbart
 
         Vilka :
         - UX-designern
+        - Frontend
         - Produktägare ( kontrollerar )
 
 3	Som bokläsare vill jag kunna låna böcker för att läsa.

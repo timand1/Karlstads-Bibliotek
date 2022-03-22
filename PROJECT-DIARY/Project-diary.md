@@ -36,6 +36,22 @@ Hur tolkar vi de olika user stories? Vad ingår i dem? Det tolkas olika även av
 Vi tänker att frontendaren och designern jobbar tätt tillsammans. Så besluten som rör frontend tas i samråd med designern och vice versa. Detsamma gäller samarbetet mellan front- och backend.
 
 Vad vi behöver göra härnäst: 
-Skriva ett sprintmål
-Kolla med Christoffer om vi är på rätt språk
-Kolla igenom kravspecen
+
+Möte med produktägaren (Christoffer) om projektet går i rätt riktning.
+Kolla igenom kravspecen igen.
+
+Dag 2 - Tisdag
+
+Morgonmöte 
+Diskuterat vad som gjorts dagen innan (måndag) och vad som skall göras framöver.
+
+Möte med produktägare där denne önskar att vi :
+Bygger upp epic user stories.
+Utvecklar acceptanskriterier. 
+
+Vi uppdaterar acceptanskriterierna på alla user stories för att konkretisera och förtydliga vad som behöver göras.
+
+Gjort idag :
+Itererat user stories och acceptanskriterier.
+Uppdaterat acceptanskriterier och lagt till epic stories vi hade under gårdagen (måndag).
+
