@@ -55,3 +55,7 @@ Gjort idag :
 Itererat user stories och acceptanskriterier.
 Uppdaterat acceptanskriterier och lagt till epic stories vi hade under gårdagen (måndag).
 
+Vad vi behöver göra härnäst: 
+Iterera - gå igenom våra stories och acceptanskriterier. Se om de är ok, behöver ändras / ta bort eller om vi kommer på någon ny.
+
+
