@@ -1,5 +1,7 @@
 Projektdagbok
 
+Länk - https://docs.google.com/document/d/1d15rv9YF8gpqz9HCnGL8eOtjQLepOkmI1deWwzKH_Jk/edit
+
 Dag 1 - Måndag
 Våra förutsättningar:
 Teamet består av fem personer (En UX-designer,  fem frontend- och backendutvecklare och en testare). 	
