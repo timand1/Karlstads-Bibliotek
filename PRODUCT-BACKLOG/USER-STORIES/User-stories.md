@@ -2,7 +2,11 @@ USER STORIES
 
 Se även vår Trello : https://trello.com/b/2knaabpo/scrum
 
-Definition of done - När user storyns accepterings kriterier är klara och testningen är godkänd.
+Definition of done - 
+    User storyns accepterings kriterier är uppfyllda.
+    Code review godkänt (för de user stories som omfattar kodning).
+        - Pushat till git repo.
+    Testning godkänd.
 
 1	Som produktägare vill jag ha hjälp med att ta fram specifikation för ett utlåningssystem för utveckling och drift.
                 1 poäng ( 8 timmar )

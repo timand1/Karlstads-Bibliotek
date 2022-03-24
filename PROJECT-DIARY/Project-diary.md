@@ -1,4 +1,5 @@
 Projektdagbok
+IT-system Karlstads Bibliotek - Magic Monkeys
 
 Länk - https://docs.google.com/document/d/1d15rv9YF8gpqz9HCnGL8eOtjQLepOkmI1deWwzKH_Jk/edit
 
@@ -6,8 +7,12 @@ Dag 1 - Måndag
 Våra förutsättningar:
 Teamet består av fem personer (En UX-designer,  fem frontend- och backendutvecklare och en testare). 	
 Sprintarna är två veckor långa.
-Definition av done för våra user stories är när den uppfyller acceptanskriterierna och är testad.
-Ett poäng motsvarar en arbetsdag för en person. 
+
+Definition av done -   
+    User storyns accepterings kriterier är uppfyllda.
+    Code review godkänt (för de user stories som omfattar kodning).
+        - Pushat till git repo.
+    Testning godkänd.
 
 Produktmål (en första version): Skapa (och leverera) ett system där användare kan låna böcker. I detta system skall användaren kunna söka på böcker samt returnera böckerna i ett modernt UI.
 
@@ -60,4 +65,21 @@ Uppdaterat tidsplanering utefter dagens förändringar.
 Vad vi behöver göra härnäst: 
 Iterera - gå igenom våra stories och acceptanskriterier. Se om de är ok, behöver ändras / ta bort eller om vi kommer på någon ny.
 
+Dag 3 - Onsdag
 
+Morgonmöte 
+Vi har kollat över projektet och kan inte komma på något för tillfället som behövs att ändras eller tilläggas.
+
+Bestämmer att individuellt försöka komma på något under dagen och meddela teamet på discord om någon skulle komma på något.
+
+Dag 4 - Torsdag
+
+Morgonmöte 
+Diskuterade projektet och vad vi ska göra. Kom på en uppdatering i Definition of done.
+Uppdaterat i github och pushat.
+
+
+Dag 5 - Fredag
+
+Morgonmöte 
+Gjort en koll över hela projektet för att se om något är missat - hittade ingenting vad vi kan komma på. Vi känner oss nöjda och klara för inlämning.
